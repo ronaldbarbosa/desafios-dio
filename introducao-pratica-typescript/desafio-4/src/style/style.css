@@ -1,0 +1,32 @@
+h1 {
+    font-size: 1.5em;
+}
+h2 {
+    font-size: 1.3em;
+}
+.container {
+    margin-bottom: 10%;
+}
+.show-lists-area {
+    max-height: 450px;
+    overflow: scroll;
+}
+.list-group {
+    width: 100%;
+}
+.movies-listed {
+    overflow-y: scroll;
+}
+.card {
+    max-width: 540px; 
+    min-width: 380px;
+    max-height: 400px;
+    overflow: scroll;
+}
+.btn-list{
+    margin-left: -10%;
+    margin-top: 70%;
+}
+.nav-link:hover {
+    cursor: pointer;
+}
