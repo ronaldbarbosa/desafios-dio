@@ -1,3 +1,0 @@
-1 - Definir versão do node 
-2 - Novo projeto com yarn: yarn init -y
-3 - Adicionar typescript: yard add -D typescript
